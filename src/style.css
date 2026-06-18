@@ -1,0 +1,123 @@
+
+.wb{
+    color: lime;
+    height: 100px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: center;
+        align-items: center;
+    
+
+    
+
+}
+.logo{
+    display: flex;
+    margin-right: 800px;
+}
+.wbi{
+    display: flex;
+   justify-content: space-between;
+    
+    align-items: center;
+}
+.child{
+    list-style: none;
+    justify-content: space-between;
+    display: flex;
+    gap: 20px;
+
+}
+.web{
+    height: 200px;
+    width: 100%;
+    background-color: green;
+    display: flex;
+}
+.web1{
+    height: 20
+     0px;
+    width: 25%;
+    background-color: green;
+}
+.web2{
+    height: 200px;
+    width: 25%;
+    background-color: gold;
+}
+.web3{
+    height: 200px;
+    width: 25%;
+    background-color: green;
+}
+.web4{
+    height: 200px;
+    width: 25%;
+    background-color: red;
+}
+.page3{
+    height: 200px;
+    width: 100%;
+    background-color: pink;
+    display: flex;
+    margin-top: 20px;
+}
+.page3i{
+    height: inherit;
+    width: 50%;
+    background-color: darkorange;
+    display: flex;
+    flex-direction: column;
+}
+.page3ii{
+   height: 200px;
+   width: 50%;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+}
+.page3v{
+    height: inherit;
+    width: 100%;
+    background-color: pink;
+}
+.page3vi{
+    height: inherit;
+    width: 100%;
+    background-color: yellow;
+}
+.page4{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    margin-top: 20px;
+}
+.page4i{
+     height: inherit;
+    width: 35%;
+    background-color: pink;
+}
+.page4ii{
+     height: inherit;
+    width: 35%;
+    background-color: purple;
+}
+.page4iii{
+     height: inherit;
+    width: 35%;
+    background-color: brown;
+}
+.pageA{
+    height: 100px;
+    width: 100%;
+    background-color: orange;
+}
+.pageB{
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+}
+
